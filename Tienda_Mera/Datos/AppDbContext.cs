@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Tienda_Mera.Models;
 
-namespace TuProyecto.Data
+namespace Tienda_Mera.Datos
 {
     public class AppDbContext : DbContext
     {
