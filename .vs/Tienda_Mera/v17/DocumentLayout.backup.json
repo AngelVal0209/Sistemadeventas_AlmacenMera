@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Angel\\Desktop\\Tienda_Mera\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69A21920-FE96-4EB9-9443-034FE2129F61}|Tienda_Mera\\Tienda_Mera.csproj|c:\\users\\angel\\desktop\\tienda_mera\\tienda_mera\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A21920-FE96-4EB9-9443-034FE2129F61}|Tienda_Mera\\Tienda_Mera.csproj|solutionrelative:tienda_mera\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A21920-FE96-4EB9-9443-034FE2129F61}|Tienda_Mera\\Tienda_Mera.csproj|c:\\users\\angel\\desktop\\tienda_mera\\tienda_mera\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A21920-FE96-4EB9-9443-034FE2129F61}|Tienda_Mera\\Tienda_Mera.csproj|solutionrelative:tienda_mera\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A21920-FE96-4EB9-9443-034FE2129F61}|Tienda_Mera\\Tienda_Mera.csproj|c:\\users\\angel\\desktop\\tienda_mera\\tienda_mera\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A21920-FE96-4EB9-9443-034FE2129F61}|Tienda_Mera\\Tienda_Mera.csproj|solutionrelative:tienda_mera\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A21920-FE96-4EB9-9443-034FE2129F61}|Tienda_Mera\\Tienda_Mera.csproj|c:\\users\\angel\\desktop\\tienda_mera\\tienda_mera\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A21920-FE96-4EB9-9443-034FE2129F61}|Tienda_Mera\\Tienda_Mera.csproj|solutionrelative:tienda_mera\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A21920-FE96-4EB9-9443-034FE2129F61}|Tienda_Mera\\Tienda_Mera.csproj|c:\\users\\angel\\desktop\\tienda_mera\\tienda_mera\\models\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A21920-FE96-4EB9-9443-034FE2129F61}|Tienda_Mera\\Tienda_Mera.csproj|solutionrelative:tienda_mera\\models\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A21920-FE96-4EB9-9443-034FE2129F61}|Tienda_Mera\\Tienda_Mera.csproj|c:\\users\\angel\\desktop\\tienda_mera\\tienda_mera\\models\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A21920-FE96-4EB9-9443-034FE2129F61}|Tienda_Mera\\Tienda_Mera.csproj|solutionrelative:tienda_mera\\models\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A21920-FE96-4EB9-9443-034FE2129F61}|Tienda_Mera\\Tienda_Mera.csproj|c:\\users\\angel\\desktop\\tienda_mera\\tienda_mera\\models\\historialventausuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A21920-FE96-4EB9-9443-034FE2129F61}|Tienda_Mera\\Tienda_Mera.csproj|solutionrelative:tienda_mera\\models\\historialventausuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A21920-FE96-4EB9-9443-034FE2129F61}|Tienda_Mera\\Tienda_Mera.csproj|c:\\users\\angel\\desktop\\tienda_mera\\tienda_mera\\models\\fiado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A21920-FE96-4EB9-9443-034FE2129F61}|Tienda_Mera\\Tienda_Mera.csproj|solutionrelative:tienda_mera\\models\\fiado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A21920-FE96-4EB9-9443-034FE2129F61}|Tienda_Mera\\Tienda_Mera.csproj|c:\\users\\angel\\desktop\\tienda_mera\\tienda_mera\\models\\historialprecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A21920-FE96-4EB9-9443-034FE2129F61}|Tienda_Mera\\Tienda_Mera.csproj|solutionrelative:tienda_mera\\models\\historialprecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A21920-FE96-4EB9-9443-034FE2129F61}|Tienda_Mera\\Tienda_Mera.csproj|c:\\users\\angel\\desktop\\tienda_mera\\tienda_mera\\models\\historialentradasalida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A21920-FE96-4EB9-9443-034FE2129F61}|Tienda_Mera\\Tienda_Mera.csproj|solutionrelative:tienda_mera\\models\\historialentradasalida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A21920-FE96-4EB9-9443-034FE2129F61}|Tienda_Mera\\Tienda_Mera.csproj|c:\\users\\angel\\desktop\\tienda_mera\\tienda_mera\\models\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A21920-FE96-4EB9-9443-034FE2129F61}|Tienda_Mera\\Tienda_Mera.csproj|solutionrelative:tienda_mera\\models\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A21920-FE96-4EB9-9443-034FE2129F61}|Tienda_Mera\\Tienda_Mera.csproj|c:\\users\\angel\\desktop\\tienda_mera\\tienda_mera\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A21920-FE96-4EB9-9443-034FE2129F61}|Tienda_Mera\\Tienda_Mera.csproj|solutionrelative:tienda_mera\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A21920-FE96-4EB9-9443-034FE2129F61}|Tienda_Mera\\Tienda_Mera.csproj|c:\\users\\angel\\desktop\\tienda_mera\\tienda_mera\\models\\almacen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A21920-FE96-4EB9-9443-034FE2129F61}|Tienda_Mera\\Tienda_Mera.csproj|solutionrelative:tienda_mera\\models\\almacen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A21920-FE96-4EB9-9443-034FE2129F61}|Tienda_Mera\\Tienda_Mera.csproj|c:\\users\\angel\\desktop\\tienda_mera\\tienda_mera\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A21920-FE96-4EB9-9443-034FE2129F61}|Tienda_Mera\\Tienda_Mera.csproj|solutionrelative:tienda_mera\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A21920-FE96-4EB9-9443-034FE2129F61}|Tienda_Mera\\Tienda_Mera.csproj|c:\\users\\angel\\desktop\\tienda_mera\\tienda_mera\\models\\pagofiado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A21920-FE96-4EB9-9443-034FE2129F61}|Tienda_Mera\\Tienda_Mera.csproj|solutionrelative:tienda_mera\\models\\pagofiado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 283,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\Desktop\\Tienda_Mera\\Tienda_Mera\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Tienda_Mera\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Angel\\Desktop\\Tienda_Mera\\Tienda_Mera\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Tienda_Mera\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAcwGkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T02:46:13.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HistorialVentaUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\Desktop\\Tienda_Mera\\Tienda_Mera\\Models\\HistorialVentaUsuario.cs",
+              "RelativeDocumentMoniker": "Tienda_Mera\\Models\\HistorialVentaUsuario.cs",
+              "ToolTip": "C:\\Users\\Angel\\Desktop\\Tienda_Mera\\Tienda_Mera\\Models\\HistorialVentaUsuario.cs",
+              "RelativeToolTip": "Tienda_Mera\\Models\\HistorialVentaUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T02:43:28.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HistorialEntradaSalida.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\Desktop\\Tienda_Mera\\Tienda_Mera\\Models\\HistorialEntradaSalida.cs",
+              "RelativeDocumentMoniker": "Tienda_Mera\\Models\\HistorialEntradaSalida.cs",
+              "ToolTip": "C:\\Users\\Angel\\Desktop\\Tienda_Mera\\Tienda_Mera\\Models\\HistorialEntradaSalida.cs",
+              "RelativeToolTip": "Tienda_Mera\\Models\\HistorialEntradaSalida.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T02:43:16.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Fiado.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\Desktop\\Tienda_Mera\\Tienda_Mera\\Models\\Fiado.cs",
+              "RelativeDocumentMoniker": "Tienda_Mera\\Models\\Fiado.cs",
+              "ToolTip": "C:\\Users\\Angel\\Desktop\\Tienda_Mera\\Tienda_Mera\\Models\\Fiado.cs",
+              "RelativeToolTip": "Tienda_Mera\\Models\\Fiado.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T02:42:38.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HistorialPrecio.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\Desktop\\Tienda_Mera\\Tienda_Mera\\Models\\HistorialPrecio.cs",
+              "RelativeDocumentMoniker": "Tienda_Mera\\Models\\HistorialPrecio.cs",
+              "ToolTip": "C:\\Users\\Angel\\Desktop\\Tienda_Mera\\Tienda_Mera\\Models\\HistorialPrecio.cs",
+              "RelativeToolTip": "Tienda_Mera\\Models\\HistorialPrecio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T02:42:25.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DetalleVenta.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\Desktop\\Tienda_Mera\\Tienda_Mera\\Models\\DetalleVenta.cs",
+              "RelativeDocumentMoniker": "Tienda_Mera\\Models\\DetalleVenta.cs",
+              "ToolTip": "C:\\Users\\Angel\\Desktop\\Tienda_Mera\\Tienda_Mera\\Models\\DetalleVenta.cs",
+              "RelativeToolTip": "Tienda_Mera\\Models\\DetalleVenta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T02:42:14.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\Desktop\\Tienda_Mera\\Tienda_Mera\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "Tienda_Mera\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\Angel\\Desktop\\Tienda_Mera\\Tienda_Mera\\Models\\Producto.cs",
+              "RelativeToolTip": "Tienda_Mera\\Models\\Producto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA4wBUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T02:41:21.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Proveedor.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\Desktop\\Tienda_Mera\\Tienda_Mera\\Models\\Proveedor.cs",
+              "RelativeDocumentMoniker": "Tienda_Mera\\Models\\Proveedor.cs",
+              "ToolTip": "C:\\Users\\Angel\\Desktop\\Tienda_Mera\\Tienda_Mera\\Models\\Proveedor.cs",
+              "RelativeToolTip": "Tienda_Mera\\Models\\Proveedor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T02:40:54.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rol.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\Desktop\\Tienda_Mera\\Tienda_Mera\\Models\\Rol.cs",
+              "RelativeDocumentMoniker": "Tienda_Mera\\Models\\Rol.cs",
+              "ToolTip": "C:\\Users\\Angel\\Desktop\\Tienda_Mera\\Tienda_Mera\\Models\\Rol.cs",
+              "RelativeToolTip": "Tienda_Mera\\Models\\Rol.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T02:40:23.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\Desktop\\Tienda_Mera\\Tienda_Mera\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Tienda_Mera\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Angel\\Desktop\\Tienda_Mera\\Tienda_Mera\\Models\\Usuario.cs",
+              "RelativeToolTip": "Tienda_Mera\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T02:40:38.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\Desktop\\Tienda_Mera\\Tienda_Mera\\Models\\Venta.cs",
+              "RelativeDocumentMoniker": "Tienda_Mera\\Models\\Venta.cs",
+              "ToolTip": "C:\\Users\\Angel\\Desktop\\Tienda_Mera\\Tienda_Mera\\Models\\Venta.cs",
+              "RelativeToolTip": "Tienda_Mera\\Models\\Venta.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T02:41:59.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\Desktop\\Tienda_Mera\\Tienda_Mera\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "Tienda_Mera\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\Angel\\Desktop\\Tienda_Mera\\Tienda_Mera\\Models\\Categoria.cs",
+              "RelativeToolTip": "Tienda_Mera\\Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T02:41:06.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Almacen.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\Desktop\\Tienda_Mera\\Tienda_Mera\\Models\\Almacen.cs",
+              "RelativeDocumentMoniker": "Tienda_Mera\\Models\\Almacen.cs",
+              "ToolTip": "C:\\Users\\Angel\\Desktop\\Tienda_Mera\\Tienda_Mera\\Models\\Almacen.cs",
+              "RelativeToolTip": "Tienda_Mera\\Models\\Almacen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T02:41:33.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\Desktop\\Tienda_Mera\\Tienda_Mera\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Tienda_Mera\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Angel\\Desktop\\Tienda_Mera\\Tienda_Mera\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Tienda_Mera\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T02:43:08.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PagoFiado.cs",
+              "DocumentMoniker": "C:\\Users\\Angel\\Desktop\\Tienda_Mera\\Tienda_Mera\\Models\\PagoFiado.cs",
+              "RelativeDocumentMoniker": "Tienda_Mera\\Models\\PagoFiado.cs",
+              "ToolTip": "C:\\Users\\Angel\\Desktop\\Tienda_Mera\\Tienda_Mera\\Models\\PagoFiado.cs",
+              "RelativeToolTip": "Tienda_Mera\\Models\\PagoFiado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T02:42:51.815Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+C:\Users\Angel\Desktop\Tienda_Mera\Tienda_Mera\obj\Debug\net8.0\Tienda_Mera.csproj.AssemblyReference.cache
+C:\Users\Angel\Desktop\Tienda_Mera\Tienda_Mera\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Angel\Desktop\Tienda_Mera\Tienda_Mera\obj\Debug\net8.0\Tienda_Mera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\Desktop\Tienda_Mera\Tienda_Mera\obj\Debug\net8.0\Tienda_Mera.AssemblyInfoInputs.cache
+C:\Users\Angel\Desktop\Tienda_Mera\Tienda_Mera\obj\Debug\net8.0\Tienda_Mera.AssemblyInfo.cs
+C:\Users\Angel\Desktop\Tienda_Mera\Tienda_Mera\obj\Debug\net8.0\Tienda_Mera.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Desktop\Tienda_Mera\Tienda_Mera\obj\Debug\net8.0\Tienda_Mera.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Angel\Desktop\Tienda_Mera\Tienda_Mera\obj\Debug\net8.0\Tienda_Mera.RazorAssemblyInfo.cache
+C:\Users\Angel\Desktop\Tienda_Mera\Tienda_Mera\obj\Debug\net8.0\Tienda_Mera.RazorAssemblyInfo.cs
