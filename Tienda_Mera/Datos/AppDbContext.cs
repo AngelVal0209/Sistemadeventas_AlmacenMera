@@ -93,20 +93,20 @@ namespace Tienda_Mera.Datos
                 IdUsuario = 1,
                 Nombre = "Administrador",
                 Email = "admin@correo.com",
-                Contraseña = "admin123", 
+                Contraseña = "admin123",
                 IdRol = 1,
                 Estado = "activo",
-                FechaCreacion = DateTime.Now
+                FechaCreacion = new DateTime(2025, 01, 01),
             },
             new Usuario
             {
                 IdUsuario = 2,
                 Nombre = "Empleado",
                 Email = "empleado@correo.com",
-                Contraseña = "empleado123", 
+                Contraseña = "empleado123",
                 IdRol = 2,
                 Estado = "activo",
-                FechaCreacion = DateTime.Now
+                FechaCreacion = new DateTime(2025, 01, 01),
             }
         );
             });
