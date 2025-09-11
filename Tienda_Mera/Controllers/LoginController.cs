@@ -38,7 +38,7 @@ namespace Tienda_Mera.Controllers
             }
 
             TempData["Success"] = "¡Bienvenido!";
-            return RedirectToAction("Index", "Home");
+            return RedirectToAction("Index", "Productoes");
         }
     }
 }
